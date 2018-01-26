@@ -1,4 +1,4 @@
-% Created 2018-01-26 Fri 13:21
+% Created 2018-01-26 Fri 12:16
 \documentclass[11pt]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -37,17 +37,6 @@ i & $\alpha$$_{\text{i-1}}$ & a$_{\text{i-1}}$ & d$_{\text{i}}$ & $\theta$$_{\te
 3 & 90 & 0 & d$_{\text{3}}$ & 90\\
 4 & 90 & L$_{\text{4}}$ & 0 & $\theta$$_{\text{4}}$\\
 5 & 90 & L$_{\text{5}}$ & 0 & 180\\
-\end{tabular}
-\end{center}
-
-\begin{center}
-\begin{tabular}{rrrrr}
-i & $\alpha$$_{\text{i-1}}$ & a$_{\text{i-1}}$ & d$_{\text{i}}$ & $\theta$$_{\text{i}}$\\
-\hline
-1 & 250.00 & 1.57 & 348.69 & 0.00\\
-2 & 252.46 & 1.57 & 345.69 & 0.09\\
-3 & 259.77 & 1.57 & 334.50 & 0.19\\
-4 & 264.72 & 1.57 & 367.86 & 0.22\\
 \end{tabular}
 \end{center}
 % Emacs 25.3.1 (Org mode 8.2.10)

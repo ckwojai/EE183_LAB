@@ -1,0 +1,36 @@
+* The Instrument (make noise)
+  - Musical "Jam Band"
+  - ESP8266 microcontrollers
+  - 
+* Interaction with the robot 
+
+
+* Individual
+  - Individual Contribution to Academic Poster -- key methods and results
+  - Design Process / Design Decision
+  - Potential Alternatives and Areas
+
+* Parts Available
+  - Actuators
+    + Servo
+    + CR Servo
+    + DC Motor
+    + Vibration Motor
+    + Speaker
+    + LEDs
+  - Sensors
+    + Touch Sensor
+    + Limit Switch
+    + Ultrasonic Range Sensor
+    + Potentiometer
+    + RFID
+    + Photoresistor
+    + Tilt Sensor
+    + IMU
+    + Hall Effect
+    + IR breakbeam
+    + Temp/humidity
+    + 3D printing
+  - Lux Lab [[http://www.library.ucla.edu/use/computers-computing-services/lux-lab][link]]
+  - Laser Cutting
+
